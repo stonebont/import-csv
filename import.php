@@ -3,9 +3,9 @@ header('Content-Type: application/json');
 
 // --- Konfigurasi Database ---
 $servername = "localhost";
-$username   = "stonebon_uimport"; // Ganti dengan username Anda
-$password   = "Bismillah123";     // Ganti dengan password Anda
-$dbname     = "stonebon_import";
+$username   = "your_database"; // Ganti dengan username Anda
+$password   = "your_password";     // Ganti dengan password Anda
+$dbname     = "your_database";
 $table      = "tbl_bosda";
 
 // Membuat koneksi
